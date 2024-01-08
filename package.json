@@ -3,6 +3,7 @@
   "displayName": "vstheme",
   "description": "vs theme",
   "version": "0.0.1",
+  "publisher": "vsthemer",
   "engines": {
     "vscode": "^1.85.0"
   },
